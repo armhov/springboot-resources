@@ -1,0 +1,1 @@
+1. Application springboot-resources has been successfully deployed!!
